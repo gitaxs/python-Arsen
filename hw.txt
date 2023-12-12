@@ -4,12 +4,12 @@
 3)https://www.kaggle.com/learn/intro-to-programming
 
 Алгоритмы (зарегаться):
-1)https://codeforces.com/problemset/problem/4/A
-2)https://projecteuler.net/problem=1
-3)https://leetcode.com/problems/palindrome-number/
+1)https://codeforces.com/problemset/problem/4/A #done 
+2)https://projecteuler.net/problem=1 #done
+3)https://leetcode.com/problems/palindrome-number/ #done
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team    #done     
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
