@@ -1,45 +1,83 @@
-﻿Python (получить сертификат):
-1)https://karpov.courses/pythonzero 
-2)https://stepik.org/course/63085/promo
-3)https://www.kaggle.com/learn/intro-to-programming
+﻿Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
 
-Алгоритмы (зарегаться):
-1)https://codeforces.com/problemset/problem/4/A #done 
-2)https://projecteuler.net/problem=1 #done
-3)https://leetcode.com/problems/palindrome-number/ #done
-
-git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team    #done     
+выполненные задания переносим в Архив(внизу файла)
+==================================
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
-4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
+==================================
+Math(school):
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
+==================================
+Calculus:
 
-Алгоритмы:
-1)скачать
-https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
+Теория(книга - для хардкорщиков): 
+https://vk.com/doc297168001_651784102
 
+Практика:
+1*) https://www.lektorium.tv/matematicheskij-analiz (прочитать весь "Список теоретических материалов"(под видео) и выписать в тетрадь все ПРИМЕРЫ И РЕШЕНИЯ), пройти ДО дифуров!
+конспект сохраняешь в \Math\calculus\lektorium\topic_name.pdf  topic_name - название темы
+
+При выполнении 1*) обязательно опираться на эти 2 плейлиста:
+Теория+практика видео: https://www.youtube.com/watch?v=zkTFyZVav-s&list=PLGtfmJuN1mTD2ND-zeBWHv3ACO5J0G9DR
+Теория+практика видео: https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr
+
+2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf 
+
+3) переписать все примеры отсюда \Math\calculus\theory\Пределы_решения
+Свой конспект сохранить в каждой папке limit.pdf
+
+УРА, РУКУ МЫ НАБИЛИ ПОРА ПРАКТИКОВАТЬСЯ:
+
+Итоговый контроль:
+1) скачать https://t.me/c/1937296927/888/11888 
+1.1 Изучить критерий Коши, на 28 странице(задачник)
+1.2 выполнить 5.231 - 5.245 в тетради, 
+1.3 конспект загрузить в \Math\calculus\5.231_5.245\limit.pdf
+1.4 так же сделай первые 3 примера из конспекта в sympy https://t.me/c/1937296927/13078
+сохраняешь в \Math\calculus\5.231_5.245\sympy.ipynb
+2) выполнить только чётные 5.272-5.286 
+конспект загрузить в \Math\calculus\5.272-5.286\limit.pdf
+3) Выполнить только чётные 5.288-5.333
+конспект загрузить в \Math\calculus\5.288-5.333\limit.pdf
+4) Начать читать 35стр непрерывность функции
+
+Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
+
+==================================
+
+Python (получить сертификат):
+1)https://karpov.courses/pythonzero
+2)https://stepik.org/course/63085/promo
+3)https://www.kaggle.com/learn/intro-to-programming
+==================================
+Алгоритмы (выполнить):
+1)https://codeforces.com/problemset/problem/4/A 
+2)https://leetcode.com/problems/palindrome-number/
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
+
+1 задача в день: 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+
+копируешь с каждой странице по 1 решению:
+первая страница https://codeforces.com/problemset/status/4/problem/A 
+середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
+последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
+ 
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+==================================
+                                                                        
 Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
 
-дискретка (математика для прогеров, скачать):
-1)https://t.me/ruslansenatorov/43
+==================================
+==================================
+Архив:
 
-System design (это на перспективу, скипай пока):
-1) https://zlib.pub/book/-7p8mhg8mcl70
-
-Math(
-ЕСЛИ ЗАХОЧЕШЬ СТАТЬ ДАТА САЙНИТИСТОМ):
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) https://t.me/SenatorovBootcamp/888/476 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) 
-3) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
-4) https://lab.karpov.courses/learning/253/module/2697/ (секция линал), ознакомиться
-                                                                       
-
-Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
-
-
-1. Оптимизнуть код коллег black, mypy .\file.py
-2. Подгрузить requiremnts с помощью относительным путем и абсолютным путем. 
-3. https://stepik.org/course/63085/promo in progress
-
+Python:
