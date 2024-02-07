@@ -1,13 +1,8 @@
-﻿Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+﻿выполненные задания переносим в Архив(внизу файла)
 
-выполненные задания переносим в Архив(внизу файла)
-==================================
 Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
-==================================
+
 Math(school):
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
 2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
@@ -79,5 +74,12 @@ Computer Science:
 ==================================
 ==================================
 Архив:
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 Python:
+
+
+
