@@ -12,7 +12,7 @@
 
 Pandas:
 1) 1 задача в день 
-https://leetcode.com/studyplan/introduction-to-pandas/ 
+https://leetcode.com/studyplan/introduction-to-pandas/ tt racing des
 2) когда закончишь начни 
 https://leetcode.com/studyplan/30-days-of-pandas/
 
