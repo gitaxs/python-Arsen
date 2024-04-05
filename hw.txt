@@ -1,5 +1,13 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
+SQL:
+1) https://karpov.courses/simulator-sql
+2) https://sql-academy.org/ru/trainer/tasks/1 (ТОПОВАЯ ШТУКА)
+3) https://stepik.org/course/63054/syllabus
+4) https://stepik.org/course/3203/syllabus
+5) https://www.kaggle.com/learn/intro-to-sql
+6) https://www.kaggle.com/learn/advanced-sql
+
 Аналитика данных на pandas:
 1) https://stepik.org/course/74457/syllabus
 2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
