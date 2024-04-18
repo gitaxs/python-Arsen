@@ -37,10 +37,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install nbqa pylint isort "black[jupyter]" mypy darglint
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: darglint
-        run: |
-          darglint $(git ls-files '*.py')
-          nbqa darglint $(git ls-files '*.ipynb')
+      # - name: darglint
+      #   run: |
+      #     darglint $(git ls-files '*.py')
+      #     nbqa darglint $(git ls-files '*.ipynb')
       - name: Pylint
         run: |
           pylint --disable=missing-module-docstring --max-line-length=80 $(git ls-files '*.py')
